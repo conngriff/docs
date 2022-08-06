@@ -55,8 +55,8 @@ If your instance has subdomain isolation enabled:
     <activeProfile>github</activeProfile>
   </activeProfiles>
 
-  <profiles>
-    <profile>
+  <conngriff22>
+    <conngriff22>
       <id>github</id>
       <repositories>
         <repository>
@@ -71,13 +71,13 @@ If your instance has subdomain isolation enabled:
           </snapshots>
         </repository>
       </repositories>
-    </profile>
+    </conngriff22>
   </profiles>
 
   <servers>
     <server>
       <id>github</id>
-      <username>USERNAME</username>
+      <username>conngriff22</username>
       <password>TOKEN</password>
     </server>
   </servers>
